@@ -18,5 +18,5 @@ Email: duyphuongcri@gmail.com (or phuongdd.1997@gmail.com).
   python predict.py
 
 # Ciation
-If you use this code for research, please cite our paper: 
+If you use this code for research, please cite our paper:                                     
 Duy-Phuong Dao, Ngoc-Huynh Ho, Jahae Kim, and Hyung-Jeong Yang. 2020.Improving Recurrent Gate Mechanism For Time-to-Conversion PredictionOf Alzheimer’s Disease. InThe 9th International Conference on Smart Mediaand Applications (SMA 2020), September 17–19, 2020, Jeju, Republic of Korea.ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3426020.3426036
